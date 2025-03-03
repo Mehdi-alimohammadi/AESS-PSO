@@ -1,1 +1,1 @@
-As soon as the paper is accepted, I will make the code publicly available.
+Alimohammadi, M., & Akbarzadeh-T, M.-R. (2025). State-space adaptive exploration for explainable particle swarm optimization. Swarm and Evolutionary Computation, 94, 101868. https://doi.org/10.1016/j.swevo.2025.101868
